@@ -1,0 +1,30 @@
+/* QuoteForm.css */
+.quote-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #3498db;
+    color: #fff;
+    padding: 8px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}

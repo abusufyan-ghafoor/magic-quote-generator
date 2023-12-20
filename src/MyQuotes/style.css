@@ -1,0 +1,32 @@
+/* Add this to your existing CSS file or create a new one */
+
+/* MyQuotes.css */
+.my-quotes-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.my-quotes-header {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.my-quotes-list {
+    list-style: none;
+    padding: 0;
+}
+
+.my-quote-item {
+    margin-bottom: 15px;
+}
+
+.my-quote-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.my-quote-link:hover {
+    color: #007bff;
+}
